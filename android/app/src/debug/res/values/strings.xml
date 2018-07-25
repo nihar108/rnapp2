@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">ZA0Jvy27MD2NGC3gN5otxL4y52LVHy-XaaEVQ</string>
+    <string name="app_name">rnapp2-debug</string>
+</resources>
